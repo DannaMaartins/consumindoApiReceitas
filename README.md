@@ -2,6 +2,9 @@
 
 ![Captura de tela_2023-06-13_15-50-37](https://github.com/DannaMaartins/consumindoApiReceitas/assets/27642674/371621ee-a936-473e-b40c-9bcf9240c959)
 
+# Sobre o projeto
+Consome a api The meal usando o axios e lista categorias de receitas
+
 
 # Getting Started with Create React App
 
